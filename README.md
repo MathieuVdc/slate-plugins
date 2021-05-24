@@ -1,5 +1,5 @@
 <h1 align="center">
-slate-plugins
+slate-plugins (edited by Mathieu Vandecasteele)
 </h1>
 
 <p>
