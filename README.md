@@ -16,6 +16,32 @@ slate-plugins (edited by Mathieu Vandecasteele)
 </div>
 </p>
 
+# Improvements (Notion Comparison)
+
+## Notion :
+
+As a user when I want to set a link on a text selected it opens a popover where I can set it.
+
+As a user when I hover a link in the editor, the cursor changes its icon to the hand.
+
+As a user when I hover a link in the editor, it displays a popover with the link’s address
+
+As a user, I have a built-in emoji keyboard
+
+As a user, when I want to inset an Image, it opens a popover where i can set it.
+
+As a user, when I want to inset an Image, a popover proposes me to upload it or to paste a link.
+
+As a user, when I double click on an Image, it makes a zoom and displays it with its full size. 
+
+As a user when I hover an image in the editor, the cursor changes its icon to the hand.
+
+As a user when I hover an image in the editor, it displays options in the top right corner.
+
+As a user when I hover an image in the editor, it display a caption option in the top right corner.
+
+As a user when I hover an image in the editor, it displays options in the top right corner to delete or replace the image.
+
 ## Visit [slate-plugins.udecode.io](https://slate-plugins.udecode.io/) for docs, guides, API and more!
 
 ## Introduction
